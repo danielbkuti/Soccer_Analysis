@@ -1,0 +1,195 @@
+Match: 2017-08-21 Manchester City-Everton -> GOAL on 1st shot
+Match: 2017-08-26 Bournemouth-Manchester City -> GOAL on 1st shot
+Match: 2017-10-14 Manchester City-Stoke -> GOAL on 1st shot
+Match: 2017-10-28 West Bromwich Albion-Manchester City -> GOAL on 1st shot
+Match: 2017-11-05 Manchester City-Arsenal -> 1st shot SAVED
+Match: 2017-11-26 Huddersfield-Manchester City -> 1st shot SAVED
+Match: 2017-11-29 Manchester City-Southampton -> 1st shot SAVED
+Match: 2017-12-03 Manchester City-West Ham -> 1st shot SAVED
+Match: 2017-12-10 Manchester United-Manchester City -> 1st shot SAVED
+Match: 2017-12-16 Manchester City-Tottenham -> 1st shot SAVED
+Match: 2018-01-02 Manchester City-Watford -> 1st shot SAVED
+Match: 2018-01-14 Liverpool-Manchester City -> GOAL on 1st shot
+Match: 2018-01-20 Manchester City-Newcastle United -> 1st shot SAVED
+Match: 2018-02-03 Burnley-Manchester City -> 1st shot SAVED
+Match: 2018-02-10 Manchester City-Leicester -> GOAL on 1st shot
+Match: 2018-03-31 Everton-Manchester City -> GOAL on 1st shot
+Match: 2018-04-07 Manchester City-Manchester United -> 1st shot SAVED
+Match: 2018-04-14 Tottenham-Manchester City -> GOAL on 1st shot
+Match: 2018-04-29 West Ham-Manchester City -> GOAL on 1st shot
+
+2017-18 Summary:
+- Total Games: 36
+- Full Games Conceded: 19
+- Games Incomplete: 1
+==============================
+Match: 2018-08-19 Manchester City-Huddersfield -> GOAL on 1st shot
+Match: 2018-08-25 Wolverhampton Wanderers-Manchester City -> 1st shot SAVED
+Match: 2018-09-01 Manchester City-Newcastle United -> GOAL on 1st shot
+Match: 2018-11-04 Manchester City-Southampton -> GOAL on 1st shot
+Match: 2018-11-11 Manchester City-Manchester United -> GOAL on 1st shot
+Match: 2018-12-01 Manchester City-Bournemouth -> GOAL on 1st shot
+Match: 2018-12-04 Watford-Manchester City -> 1st shot SAVED
+Match: 2018-12-08 Chelsea-Manchester City -> GOAL on 1st shot
+Match: 2018-12-15 Manchester City-Everton -> GOAL on 1st shot
+Match: 2018-12-22 Manchester City-Crystal Palace -> GOAL on 1st shot
+Match: 2018-12-26 Leicester-Manchester City -> GOAL on 1st shot
+Match: 2018-12-30 Southampton-Manchester City -> 1st shot SAVED
+Match: 2019-01-03 Manchester City-Liverpool -> 1st shot SAVED
+Match: 2019-01-29 Newcastle United-Manchester City -> GOAL on 1st shot
+Match: 2019-02-03 Manchester City-Arsenal -> GOAL on 1st shot
+Match: 2019-03-09 Manchester City-Watford -> GOAL on 1st shot
+Match: 2019-04-14 Crystal Palace-Manchester City -> 1st shot SAVED
+Match: 2019-05-12 Brighton-Manchester City -> GOAL on 1st shot
+
+2018-19 Summary:
+- Total Games: 38
+- Full Games Conceded: 18
+- Games Incomplete: 0
+==============================
+Match: 2019-08-17 Manchester City-Tottenham -> GOAL on 1st shot
+Match: 2019-08-25 Bournemouth-Manchester City -> 1st shot SAVED
+Match: 2019-09-14 Norwich-Manchester City -> GOAL on 1st shot
+Match: 2019-09-28 Everton-Manchester City -> 1st shot SAVED
+Match: 2019-10-06 Manchester City-Wolverhampton Wanderers -> GOAL on 1st shot
+Match: 2019-11-02 Manchester City-Southampton -> GOAL on 1st shot
+Match: 2019-11-23 Manchester City-Chelsea -> 1st shot SAVED
+Match: 2019-11-30 Newcastle United-Manchester City -> 1st shot SAVED
+Match: 2019-12-03 Burnley-Manchester City -> 1st shot SAVED
+Match: 2019-12-07 Manchester City-Manchester United -> 1st shot SAVED
+Match: 2019-12-21 Manchester City-Leicester -> GOAL on 1st shot
+Match: 2020-01-12 Aston Villa-Manchester City -> GOAL on 1st shot
+Match: 2020-01-18 Manchester City-Crystal Palace -> GOAL on 1st shot
+Match: 2020-02-02 Tottenham-Manchester City -> GOAL on 1st shot
+Match: 2020-03-08 Manchester United-Manchester City -> 1st shot SAVED
+Match: 2020-06-25 Chelsea-Manchester City -> 1st shot SAVED
+Match: 2020-07-05 Southampton-Manchester City -> GOAL on 1st shot
+Match: 2020-07-15 Manchester City-Bournemouth -> 1st shot SAVED
+
+2019-20 Summary:
+- Total Games: 35
+- Full Games Conceded: 18
+- Games Incomplete: 1
+==============================
+Match: 2020-09-21 Wolverhampton Wanderers-Manchester City -> GOAL on 1st shot
+Match: 2020-09-27 Manchester City-Leicester -> GOAL on 1st shot
+Match: 2020-10-03 Leeds-Manchester City -> 1st shot SAVED
+Match: 2020-10-24 West Ham-Manchester City -> GOAL on 1st shot
+Match: 2020-11-08 Manchester City-Liverpool -> GOAL on 1st shot
+Match: 2020-11-21 Tottenham-Manchester City -> GOAL on 1st shot
+Match: 2020-12-15 Manchester City-West Bromwich Albion -> 1st shot SAVED
+Match: 2021-02-07 Liverpool-Manchester City -> 1st shot SAVED
+Match: 2021-02-17 Everton-Manchester City -> GOAL on 1st shot
+Match: 2021-02-27 Manchester City-West Ham -> 1st shot SAVED
+Match: 2021-03-02 Manchester City-Wolverhampton Wanderers -> GOAL on 1st shot
+Match: 2021-03-07 Manchester City-Manchester United -> GOAL on 1st shot
+Match: 2021-03-10 Manchester City-Southampton -> 1st shot SAVED
+Match: 2021-04-10 Manchester City-Leeds -> GOAL on 1st shot
+Match: 2021-04-21 Aston Villa-Manchester City -> GOAL on 1st shot
+Match: 2021-05-08 Manchester City-Chelsea -> 1st shot SAVED
+Match: 2021-05-18 Brighton-Manchester City -> 1st shot SAVED
+
+2020-21 Summary:
+- Total Games: 36
+- Full Games Conceded: 17
+- Games Incomplete: 0
+==============================
+Match: 2021-08-15 Tottenham-Manchester City -> GOAL on 1st shot
+Match: 2021-10-03 Liverpool-Manchester City -> 1st shot SAVED
+Match: 2021-10-23 Brighton-Manchester City -> 1st shot SAVED
+Match: 2021-10-30 Manchester City-Crystal Palace -> GOAL on 1st shot
+Match: 2021-11-28 Manchester City-West Ham -> 1st shot SAVED
+Match: 2021-12-01 Aston Villa-Manchester City -> 1st shot SAVED
+Match: 2021-12-04 Watford-Manchester City -> 1st shot SAVED
+Match: 2021-12-26 Manchester City-Leicester -> 1st shot SAVED
+Match: 2022-01-01 Arsenal-Manchester City -> 1st shot SAVED
+Match: 2022-01-22 Southampton-Manchester City -> GOAL on 1st shot
+Match: 2022-02-19 Manchester City-Tottenham -> GOAL on 1st shot
+Match: 2022-03-06 Manchester City-Manchester United -> 1st shot SAVED
+Match: 2022-04-10 Manchester City-Liverpool -> GOAL on 1st shot
+Match: 2022-04-23 Manchester City-Watford -> GOAL on 1st shot
+Match: 2022-05-11 Wolverhampton Wanderers-Manchester City -> GOAL on 1st shot
+Match: 2022-05-15 West Ham-Manchester City -> GOAL on 1st shot
+Match: 2022-05-22 Manchester City-Aston Villa -> GOAL on 1st shot
+
+2021-22 Summary:
+- Total Games: 37
+- Full Games Conceded: 17
+- Games Incomplete: 0
+==============================
+Match: 2022-08-21 Newcastle United-Manchester City -> 1st shot SAVED
+Match: 2022-08-27 Manchester City-Crystal Palace -> 1st shot SAVED
+Match: 2022-09-03 Aston Villa-Manchester City -> GOAL on 1st shot
+Match: 2022-10-02 Manchester City-Manchester United -> 1st shot SAVED
+Match: 2022-10-16 Liverpool-Manchester City -> 1st shot SAVED
+Match: 2022-10-22 Manchester City-Brighton -> GOAL on 1st shot
+Match: 2022-11-05 Manchester City-Fulham -> GOAL on 1st shot
+Match: 2022-11-12 Manchester City-Brentford -> 1st shot SAVED
+Match: 2022-12-28 Leeds-Manchester City -> GOAL on 1st shot
+Match: 2022-12-31 Manchester City-Everton -> GOAL on 1st shot
+Match: 2023-01-14 Manchester United-Manchester City -> 1st shot SAVED
+Match: 2023-01-19 Manchester City-Tottenham -> 1st shot SAVED
+Match: 2023-02-05 Tottenham-Manchester City -> GOAL on 1st shot
+Match: 2023-02-12 Manchester City-Aston Villa -> GOAL on 1st shot
+Match: 2023-02-15 Arsenal-Manchester City -> GOAL on 1st shot
+Match: 2023-02-18 Nottingham Forest-Manchester City -> GOAL on 1st shot
+Match: 2023-02-25 Bournemouth-Manchester City -> 1st shot SAVED
+Match: 2023-04-01 Manchester City-Liverpool -> GOAL on 1st shot
+Match: 2023-04-08 Southampton-Manchester City -> GOAL on 1st shot
+Match: 2023-04-15 Manchester City-Leicester -> 1st shot SAVED
+Match: 2023-04-26 Manchester City-Arsenal -> 1st shot SAVED
+Match: 2023-04-30 Fulham-Manchester City -> GOAL on 1st shot
+Match: 2023-05-06 Manchester City-Leeds -> 1st shot SAVED
+Match: 2023-05-28 Brentford-Manchester City -> 1st shot SAVED
+
+2022-23 Summary:
+- Total Games: 35
+- Full Games Conceded: 24
+- Games Incomplete: 0
+==============================
+Match: 2023-08-27 Sheffield United-Manchester City -> GOAL on 1st shot
+Match: 2023-09-02 Manchester City-Fulham -> 1st shot SAVED
+Match: 2023-09-16 West Ham-Manchester City -> 1st shot SAVED
+Match: 2023-09-30 Wolverhampton Wanderers-Manchester City -> 1st shot SAVED
+Match: 2023-10-08 Arsenal-Manchester City -> 1st shot SAVED
+Match: 2023-11-04 Manchester City-Bournemouth -> GOAL on 1st shot
+Match: 2023-11-12 Chelsea-Manchester City -> 1st shot SAVED
+Match: 2023-11-25 Manchester City-Liverpool -> 1st shot SAVED
+Match: 2023-12-03 Manchester City-Tottenham -> GOAL on 1st shot
+Match: 2023-12-06 Aston Villa-Manchester City -> 1st shot SAVED
+Match: 2023-12-10 Luton-Manchester City -> 1st shot SAVED
+Match: 2023-12-16 Manchester City-Crystal Palace -> GOAL on 1st shot
+Match: 2023-12-27 Everton-Manchester City -> GOAL on 1st shot
+Match: 2024-01-31 Manchester City-Burnley -> 1st shot SAVED
+Match: 2024-02-05 Brentford-Manchester City -> GOAL on 1st shot
+Match: 2024-02-17 Manchester City-Chelsea -> 1st shot SAVED
+Match: 2024-03-03 Manchester City-Manchester United -> GOAL on 1st shot
+Match: 2024-04-13 Manchester City-Luton -> 1st shot SAVED
+Match: 2024-05-04 Manchester City-Wolverhampton Wanderers -> GOAL on 1st shot
+
+2023-24 Summary:
+- Total Games: 33
+- Full Games Conceded: 19
+- Games Incomplete: 4
+==============================
+Match: 2024-08-24 Manchester City-Ipswich -> GOAL on 1st shot
+Match: 2024-08-31 West Ham-Manchester City -> 1st shot SAVED
+Match: 2024-09-14 Manchester City-Brentford -> GOAL on 1st shot
+Match: 2024-09-22 Manchester City-Arsenal -> GOAL on 1st shot
+Match: 2024-09-28 Newcastle United-Manchester City -> 1st shot SAVED
+Match: 2024-10-05 Manchester City-Fulham -> 1st shot SAVED
+Match: 2024-10-20 Wolverhampton Wanderers-Manchester City -> GOAL on 1st shot
+Match: 2024-11-02 Bournemouth-Manchester City -> 1st shot SAVED
+Match: 2024-11-09 Brighton-Manchester City -> 1st shot SAVED
+Match: 2024-11-23 Manchester City-Tottenham -> GOAL on 1st shot
+Match: 2024-12-15 Manchester City-Manchester United -> 1st shot SAVED
+Match: 2025-01-25 Manchester City-Chelsea -> GOAL on 1st shot
+Match: 2025-02-23 Manchester City-Liverpool -> GOAL on 1st shot
+Match: 2025-03-08 Nottingham Forest-Manchester City -> 1st shot SAVED
+Match: 2025-05-20 Manchester City-Bournemouth -> 1st shot SAVED
+
+2024-25 Summary:
+- Total Games: 26
+- Full Games Conceded: 15
+- Games Incomplete: 1
+==============================
