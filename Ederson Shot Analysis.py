@@ -184,7 +184,7 @@ if __name__ == "__main__":
     path = r"C:\Users\danie\Projects\EdersonFootballData\Ederson Match Shots"
     save_to_txt = True
 
-    with open("Ederson_Analysis_Results.txt", "w") if save_to_txt else None as f:
+    with open("outputs/reports/Ederson_Analysis_Results.txt", "w") if save_to_txt else None as f:
         for file_name in sorted(os.listdir(path)):
             if file_name.endswith(".csv"):
                 season_label = file_name[0:7]
