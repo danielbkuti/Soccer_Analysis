@@ -1,7 +1,7 @@
-import soccerdata as sd
+#import soccerdata as sd
 import pandas as pd
-import time
-import os
+#import time
+# import os
 
 
 def get_season_match_ids(season):
@@ -69,19 +69,32 @@ def generate_season_csv(season, shots_df):
 
 
 if __name__ == "__main__":
-    # season_arr = []
-    # for i in range(17,25):
-    #     season = "20"+str(i)+"/"+str(i+1)
-    #     if season= "2021/22":
-    #         season_arr.append(season)
-    #
-    # for season in season_arr:
-    #
-    #     shots_df = get_season_match_ids(season)
-    #
-    #     if shots_df is not None:
-    #         generate_season_csv(season, shots_df)
+    season_arr = []
+    for i in range(17,25):
+        season = "20"+str(i)+"/"+str(i+1)
 
-    season = "2021/22"
-    shots_df = get_season_match_ids(season)
-    generate_season_csv(season, shots_df)
+    for season in season_arr:
+
+        shots_df = get_season_match_ids(season)
+
+        if shots_df is not None:
+            generate_season_csv(season, shots_df)
+
+    # season = "2021/22"
+    # shots_df = get_season_match_ids(season)
+    # generate_season_csv(season, shots_df)
+
+    # df = pd.read_csv(
+    #     "../data/raw/2017-18_ederson_shots.csv",
+    #     encoding="cp1252",  # handles Windows files
+    #     engine="python",
+    #     encoding_errors="replace"
+    # )
+    #
+    # df.to_csv(
+    #     "../data/raw/2017-18_ederson_shots_utf8.csv",
+    #     index=False,
+    #     encoding="utf-8"
+    # )
+    #
+    # print("UTF-8 file written")
