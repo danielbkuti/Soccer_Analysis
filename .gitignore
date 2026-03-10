@@ -3,4 +3,4 @@ __pycache__/
 .env
 .ipynb_checkpoints/
 data/processed/
-outputs/
+Miniforge3-MacOSX-arm64.sh

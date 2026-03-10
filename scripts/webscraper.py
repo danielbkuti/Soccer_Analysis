@@ -1,7 +1,7 @@
-#import soccerdata as sd
+import soccerdata as sd
 import pandas as pd
-#import time
-# import os
+import time
+import os
 
 
 def get_season_match_ids(season):
@@ -70,7 +70,7 @@ def generate_season_csv(season, shots_df):
 
 if __name__ == "__main__":
     season_arr = []
-    for i in range(17,25):
+    for i in range(18,25):
         season = "20"+str(i)+"/"+str(i+1)
 
     for season in season_arr:
