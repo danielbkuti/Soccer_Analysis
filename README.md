@@ -91,6 +91,21 @@ Planned extensions include:
 
 ---
 
+## Corners Prediction Model & RAG System (separate sub-project)
+
+A second, independent project in this repo: a Poisson regression model predicting Man City's corners won per match (`notebooks/corners_model.ipynb`), and a RAG (retrieval-augmented generation) Q&A system built on top of it (in progress) — demonstrating general AI-engineering skill (retrieval, eval design) alongside the sports-domain ML work above.
+
+### Data sources
+
+- **[football-data.co.uk](https://www.football-data.co.uk)** — Premier League match data for the 2023/24, 2024/25, and 2025/26 seasons. Free for personal/non-commercial use. Not committed to this repo (`data/raw/*` is gitignored); download the England Premier League CSVs directly from their site to reproduce.
+- **[Sofascore](https://www.sofascore.com)** — a small number of current-season (2026/27) matches, collected manually (one page at a time, not automated bulk scraping) via a personal Tampermonkey export script and converted to the same CSV schema with [scripts/convert_sofascore_json.py](scripts/convert_sofascore_json.py). Also not committed, for the same reason as above — this repo doesn't redistribute either source's underlying data, only the code that processes it.
+
+### RAG corpus
+
+[data/processed/match_notes.jsonl](data/processed/match_notes.jsonl) **is** committed — it's original generated text (one natural-language "analyst note" per historical match, produced by [scripts/generate_match_notes.py](scripts/generate_match_notes.py) from the model's engineered features and each match's real recorded outcome), not a redistribution of either raw data source.
+
+---
+
 ## Author
 
 Tirenioluwa Daniel Biodun-Kuti
