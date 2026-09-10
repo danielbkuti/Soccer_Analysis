@@ -4,6 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 data/processed/*
 !data/processed/match_notes.jsonl
+!data/processed/eval_set.jsonl
 data/raw/*
 Miniforge3-MacOSX-arm64.sh
 .DS_Store
