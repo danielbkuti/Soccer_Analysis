@@ -93,7 +93,19 @@ Planned extensions include:
 
 ## Corners Prediction Model & RAG System (separate sub-project)
 
-A second, independent project in this repo: a Poisson regression model predicting Man City's corners won per match (`notebooks/corners_model.ipynb`), and a RAG (retrieval-augmented generation) Q&A system built on top of it (in progress) — demonstrating general AI-engineering skill (retrieval, eval design) alongside the sports-domain ML work above.
+A second, independent project in this repo: a Poisson regression model predicting Man City's corners won per match (`notebooks/corners_model.ipynb`), and a RAG (retrieval-augmented generation) Q&A system built on top of it — demonstrating general AI-engineering skill (retrieval, eval design) alongside the sports-domain ML work above.
+
+### Results
+
+| Feature set | Test R² |
+|---|---|
+| 3 features (baseline) | 0.026 |
+| + opponent shots-conceded | 0.062 |
+| + current-season data | 0.064 |
+
+Test MSE beat the "always predict the mean" baseline at every stage (9.5–9.7 vs. 10.4). More notably: a first real-world prediction (11.86 corners for an upcoming fixture) looked implausible against the bookmaker's line, which led to directly testing two competing explanations — stale/regime-mixed data (ruled out) vs. training instability from a small dataset (confirmed: **std 2.43 across 10 random seeds** on the same fixture). The model ships with an honest range, not a false-precision point estimate. Full writeup — including the hypothesis-testing, not just the numbers — in [docs/corners-model-writeup.md](docs/corners-model-writeup.md).
+
+The RAG system (corpus generation → embeddings/vector store → hybrid structured+semantic router → eval set → FastAPI service with a minimal UI) is scored against a 20-question eval set at **18/20 (90%)** — 14/14 on the exact-number structured path, 4/6 on semantic retrieval, with both misses diagnosed as genuine embedding-model limitations rather than left unexplained.
 
 ### Data sources
 
