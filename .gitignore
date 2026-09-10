@@ -9,3 +9,4 @@ data/raw/*
 Miniforge3-MacOSX-arm64.sh
 .DS_Store
 /HANDOFF.md
+graphify-out/
