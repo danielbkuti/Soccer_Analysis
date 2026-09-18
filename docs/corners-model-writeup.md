@@ -57,6 +57,10 @@ mean = 11.48   std = 2.43   range = (6.85, 13.64)
 
 The defensible pre-match estimate for that fixture isn't a single number — it's **City in the 7–14 range**, with the real uncertainty coming from training variance on a small dataset, not from anything wrong with the features or the leakage handling. That range, and the reasoning behind it, is what actually got shipped — not a false-precision point estimate.
 
+## What actually happened
+
+The fixture was played on 13/09/2026: **Man United 0–1 Man City**, corners **6–7**. City's real total, **7**, sits at the exact lower bound of the predicted range — not near the central estimate of 11.48. The range held, but the point estimate would have missed by roughly 4.5 corners. One match is too small a sample to call this systematic bias, but it's a real, concrete illustration of why the honest range was worth reporting instead of the first clean-looking number the model produced.
+
 ## Tooling built alongside the model
 
 - A Tampermonkey userscript + [conversion script](../scripts/convert_sofascore_json.py) to source current-season data manually when the primary source went down, with correct attribution and no bulk automated extraction
