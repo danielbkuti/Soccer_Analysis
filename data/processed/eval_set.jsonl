@@ -1,0 +1,20 @@
+{"question": "What was City's average corners at home in 2024/25?", "path": "structured", "expected": {"result": 7.0, "n_matches": 19}}
+{"question": "What's the most corners City have won against Arsenal?", "path": "structured", "expected": {"result": 8, "n_matches": 6}}
+{"question": "How many matches has City played against Man United?", "path": "structured", "expected": {"result": 6, "n_matches": 6}}
+{"question": "What was City's total corners in 2023/24?", "path": "structured", "expected": {"result": 274, "n_matches": 36}}
+{"question": "Who did City concede the most corners to overall?", "path": "structured", "expected": {"opponent": "Liverpool", "result": 37, "n_matches": 6}}
+{"question": "Most corners City have conceded against any team in total", "path": "structured", "expected": {"opponent": "Liverpool", "result": 37, "n_matches": 6}}
+{"question": "Which game did the most corners happen involving City?", "path": "structured", "expected": {"result": 21, "match": {"date": "2024-02-05", "opponent": "Brentford"}}}
+{"question": "Which game did the least corners happen involving City?", "path": "structured", "expected": {"result": 4, "match": {"date": "2023-10-21", "opponent": "Brighton"}}}
+{"question": "Which game did City have the most corners?", "path": "structured", "expected": {"result": 18, "match": {"date": "2024-10-20", "opponent": "Wolves"}}}
+{"question": "Which game did City have the least corners?", "path": "structured", "expected": {"result": 0, "match": {"date": "2023-12-06", "opponent": "Aston Villa"}}}
+{"question": "What was City's total corners in 2024/25?", "path": "structured", "expected": {"result": 253, "n_matches": 38}}
+{"question": "What was City's total corners in 2025/26?", "path": "structured", "expected": {"result": 247, "n_matches": 38}}
+{"question": "Who does City average the least corners against?", "path": "structured", "expected": {"opponent": "Brighton", "result": 3.67, "n_matches": 6}}
+{"question": "Why did City struggle for corners against Chelsea in August 2024?", "path": "semantic", "expected_match_id": "match_20240818_Chelsea"}
+{"question": "Describe a match where City were dominant and won plenty of corners against Chelsea", "path": "semantic", "expected_match_id": "match_20260412_Chelsea"}
+{"question": "Tell me about the match where City won the most corners against Wolves", "path": "structured", "expected": {"result": 18, "match": {"date": "2024-10-20", "opponent": "Wolves"}}}
+{"question": "What happened in the match where City got shut out on corners?", "path": "semantic", "expected_match_id": "match_20231206_Aston_Villa"}
+{"question": "Why did City concede so many corners against Brentford?", "path": "semantic", "expected_match_id": "match_20240205_Brentford"}
+{"question": "Describe City's away performance against Sheffield United early in the 2023/24 season", "path": "semantic", "expected_match_id": "match_20230827_Sheffield_United"}
+{"question": "Tell me about a tight, low-scoring corners match against Brighton", "path": "semantic", "expected_match_id": "match_20231021_Brighton"}
