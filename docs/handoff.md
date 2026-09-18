@@ -44,6 +44,14 @@ mean = 11.48   std = 2.43   range = (6.85, 13.64)
 
 ---
 
+## ✅ Actual result (13/09/2026) — the validation this was all building toward
+
+**Man United 0–1 Man City** (Haaland, 60'). **Corner kicks: 6–7.** City's real corners: **7**.
+
+That's the exact **lower bound** of the predicted range, not anywhere near the central estimate (11.48). The range held — the true value was inside it — but the point estimate overshot by ~4.5 corners. One data point isn't evidence of systematic bias, but it's a concrete demonstration that the honesty of reporting a range instead of 11.86 as a clean number mattered in practice: trusting the single-run point estimate would have missed by nearly 5 corners, while the range at least correctly bracketed the outcome.
+
+---
+
 ## Next up — RAG system (separate project, starts fresh)
 
 Per the [week plan](week-handoff.md — see chat history / your saved copy), the RAG build (corpus generation → embeddings → structured query + router → eval set) was deliberately scheduled for a **separate session**, since it's built from this model's finished feature set. That still holds — but the stability concern above is **not a blocker for corpus generation itself**.
